@@ -1,0 +1,16 @@
+[package]
+name = "keshet"
+version = "0.6.1"
+edition = "2021"
+authors = ["Tiago Rabelo <https://github.com/HonoravelMacho>"]
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+colored = "2.1"
+crossterm = "0.27"
+rug = { version = "1.24", features = ["float", "rand"] }
+num-integer = "0.1"
+rayon = "1.8"
+anyhow = "1.0"
+chrono = "0.4"
+indicatif = "0.18.6"
