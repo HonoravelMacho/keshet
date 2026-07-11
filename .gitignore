@@ -1,1 +1,4 @@
 /target
+**/*.rs.bk
+keshet_descobertas.txt
+Cargo.lock

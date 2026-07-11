@@ -1,6 +1,6 @@
 [package]
 name = "keshet"
-version = "0.6.1"
+version = "1.0.2"
 edition = "2021"
 authors = ["Tiago Rabelo <https://github.com/HonoravelMacho>"]
 
@@ -13,4 +13,4 @@ num-integer = "0.1"
 rayon = "1.8"
 anyhow = "1.0"
 chrono = "0.4"
-indicatif = "0.18.6"
+indicatif = "0.17"
